@@ -1,0 +1,11 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  font-family: 'Pacifico';
+  font-size: 80px;
+  color: aquamarine;
+}
